@@ -1,0 +1,8 @@
+-> create a new repository on the command line
+
+git init
+git add .
+git commit -m "Primeiro commit"
+git remote add origin https://github.com/claudiomarcosdf/springboot-mongodb.git
+git push -u origin master
+
