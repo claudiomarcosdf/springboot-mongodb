@@ -6,6 +6,10 @@ git commit -m "Primeiro commit"
 git remote add origin https://github.com/claudiomarcosdf/springboot-mongodb.git
 git push -u origin master -> Se não enviar então inserir a opção --force 
 
+
+git config --list -> listar o arquivo de configurações
+git remote rm origin -> remove remote origin
+
 by Claudio Marcos
 
 
